@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Two cats</string>
+    <string name="buttom_title_home">首页</string>
+    <string name="buttom_title_store">商城</string>
+    <string name="buttom_title_add">发布</string>
+    <string name="buttom_title_message">消息</string>
+    <string name="buttom_title_user">我的</string>
+    <string name="home_subscription">关注</string>
+    <string name="home_explore">发现</string>
+    <string name="home_strayCat">流浪猫</string>
+</resources>
